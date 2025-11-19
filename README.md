@@ -61,7 +61,7 @@ Because learning data shouldn’t be serious all the time:
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** *Add your link here*  
+- **LinkedIn:** *https://www.linkedin.com/in/arooj-jounad/*  
 - **Portfolio Website:** *Add your Google Sites link here*  
 
 ---
